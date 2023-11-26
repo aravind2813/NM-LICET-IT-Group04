@@ -18,8 +18,5 @@ Todo list application that can create, read, update, delete, and mark completed.
 
 `mvn spring-boot:run`
 
-4. Open your browser and browse to http://localhost:3000
-
-### Snapshot of Application
-
-![ToDoList App](https://i.imgur.com/7bjdoTW.png)
+5.Deployment Link
+https://todo-list-ecwi.onrender.com/
